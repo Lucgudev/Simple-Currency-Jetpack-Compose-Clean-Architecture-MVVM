@@ -1,6 +1,9 @@
 # Simple Currency Converter App
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+![App Screenshot](docs/readme_image_1.png)
+![App Screenshot](docs/readme_image_2.png)
+
 A simple currency converter Android app built with **Jetpack Compose**, following **Clean Architecture** and **MVVM** principles. The app utilizes **Koin** for dependency injection, **Moshi** for JSON parsing, and the **OpenExchangeRates API** for real-time currency conversion.
 
 ---
