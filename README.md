@@ -88,11 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Screenshots
-*(Add screenshots of your app here for better presentation)*
-
----
-
 ## Acknowledgments
 - [OpenExchangeRates API](https://openexchangerates.org/) for providing the exchange rate data.
 - Jetpack Compose, Koin, and Moshi for enabling clean and modern app development.
