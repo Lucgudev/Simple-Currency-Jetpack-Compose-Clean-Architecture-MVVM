@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FindMyCurrencies</string>
+    <string name="home_title_screen">Convert</string>
+    <string name="header_home_view_hint">Input amount</string>
+    <string name="home_error_view_button">Refresh</string>
+    <string name="modal_change_currency_title">Select Currency</string>
+    <string name="home_view_model_generic_error">Failed to load data</string>
+    <string name="no_data_found">No data found</string>
+    <string name="failed_to_fetch_database">Failed to fetch database</string>
+    <string name="failed_to_fetch_from_local_database">Failed to fetch from local database</string>
 </resources>
